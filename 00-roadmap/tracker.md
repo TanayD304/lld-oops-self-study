@@ -11,8 +11,8 @@
 
 | # | Session | Status | Start Date | End Date | Rev-1 (D+1) | Rev-2 (D+3) | Rev-3 (D+7) | Rev-4 (D+14) | Repo Updated | Confidence | Notes |
 |---|---------|--------|------------|----------|-------------|-------------|-------------|--------------|--------------|------------|-------|
-| 1 | Introduction to OOP | ⬜ | | | | | | | ⬜ | | |
-| 2 | Classes & Objects | ⬜ | | | | | | | ⬜ | | |
+| 1 | Introduction to OOP | 🟩 | 01-07-2026 | 01-07-2026 | 02-07-2026 | 05-07-2026 | 12-07-2026 | 26-07-2026 | 🟩 | high | ⬜ |
+| 2 | Classes & Objects || 🟩 | 02-07-2026 | 02-07-2026 | 03-07-2026 | 06-07-2026 | 13-07-2026 | 27-07-2026 | 🟩 | high | ⬜ |
 | 3 | Constructors & Destructors | ⬜ | | | | | | | ⬜ | | |
 | 4 | Copy & Move Semantics | ⬜ | | | | | | | ⬜ | | |
 | 5 | Encapsulation | ⬜ | | | | | | | ⬜ | | |
